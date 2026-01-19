@@ -8,3 +8,5 @@
               https://51.75.31.208.nip.io/documentation pour le swagger 
            -> Rédaction des retours sur les 10 projets de l'esp que je devais noter. 
 
+
+19/01/2026 -> exploration du sujet d'IA, prise en main de jupyter avec la creation d'un environnement Docker, analyse des données, premiers scripts test avec panda scikit-learn numpy. Pas de possibilité de push le travail réalisé aucun répo github suite a l'inscription sur gandalf 
