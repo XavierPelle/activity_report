@@ -12,3 +12,5 @@
 19/01/2026 -> exploration du sujet d'IA, prise en main de jupyter avec la creation d'un environnement Docker, analyse des données, premiers scripts test avec panda scikit-learn numpy. Pas de possibilité de push le travail réalisé aucun répo github suite a l'inscription sur gandalf 
 
 26/01/2026 -> après analyse des données j'ai entraîné 3 modèles baseline (régression logistique, arbre de décision, random forest) pour établir une référence de performance, résultat satisfaisant mais toujours pas de répo github sur gandalf
+
+02/02/2026 -> Clean du vps après le sujet d'ESP, j'ai essayé de mettre le notebook sur le vps mais ça sert a rien, il vaut mieux faire github vers production que directement vers production. Entrainement d'un cnn sur 20 epoch avec une accurency de 95% au bout des 20 mais j'avais reach 94% a la 6e epoch.  
