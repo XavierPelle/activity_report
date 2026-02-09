@@ -14,3 +14,5 @@
 26/01/2026 -> après analyse des données j'ai entraîné 3 modèles baseline (régression logistique, arbre de décision, random forest) pour établir une référence de performance, résultat satisfaisant mais toujours pas de répo github sur gandalf
 
 02/02/2026 -> Clean du vps après le sujet d'ESP, j'ai essayé de mettre le notebook sur le vps mais ça sert a rien, il vaut mieux faire github vers production que directement vers production. Entrainement d'un cnn sur 20 epoch avec une accurency de 95% au bout des 20 mais j'avais reach 94% a la 6e epoch.  
+
+09/02/2026 -> Consolidation des connaissances sur le sujet et les scripts des notebooks (jupyter) en suivant des cours en lignes sur la création de cnn en vue de partager les connaissances avec les autres membres du groupe et aussi pour la keynote de mars.
