@@ -18,3 +18,6 @@
 09/02/2026 -> Consolidation des connaissances sur le sujet et les scripts des notebooks (jupyter) en suivant des cours en lignes sur la création de cnn en vue de partager les connaissances avec les autres membres du groupe et aussi pour la keynote de mars.
 
 16/02/2026 -> Création d'une ia pour un projet alternative de review pour consolider les bases, récupération et création d'un jeu donnée qui n'exister pas dans le projet zoidberg et résultat moyennement satisfaisant j'aurais certainement besoin d'un jeu de donnée plus large.
+
+
+23/02/2026 -> Travail sur l'esp 800 avec le follow up a 14h45
