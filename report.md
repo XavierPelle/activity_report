@@ -20,3 +20,5 @@
 16/02/2026 -> Création d'une ia pour un projet alternative de review pour consolider les bases, récupération et création d'un jeu donnée qui n'exister pas dans le projet zoidberg et résultat moyennement satisfaisant j'aurais certainement besoin d'un jeu de donnée plus large.
 
 16/03/2026 -> Travail sur la présentation du follow up de l'esp qui aura lieu lundi prochain 
+
+23/03/2026 -> Completion de la présentation du follow up, premier test de l'ia sur le projet.
