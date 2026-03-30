@@ -22,3 +22,5 @@
 16/03/2026 -> Travail sur la présentation du follow up de l'esp qui aura lieu lundi prochain 
 
 23/03/2026 -> Completion de la présentation du follow up, premier test de l'ia sur le projet.
+
+30/03/2026 -> Travail sur le projet d'esp follow-up et continuation du developpement du model nlp
