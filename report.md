@@ -28,3 +28,5 @@
 13/04/2026 -> Génération d'un dataset d'environ 100 item pour le ttv et premier test d'entrainement avec le model phi3-mini-4k de microsoft
 
 20/04/2026 -> résultat médiocre de l'ia (moins de 80%) amélioration du dataset et du json d'output. Pas de résultat trancendant pour le moment.
+
+28/04/2026 -> Travail sur le projet Zoiberg, création de fichier détaillé sur les notions de ml / mathematique  
