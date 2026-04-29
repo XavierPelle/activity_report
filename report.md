@@ -30,3 +30,5 @@
 20/04/2026 -> résultat médiocre de l'ia (moins de 80%) amélioration du dataset et du json d'output. Pas de résultat trancendant pour le moment.
 
 28/04/2026 -> Travail sur le projet Zoiberg, création de fichier détaillé sur les notions de ml / mathematique  
+
+29/04/2026 -> developpement de la partie cnn et pousser le document technique en rajoutant la partie cnn + révision des notions de ml  
