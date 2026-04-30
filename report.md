@@ -32,3 +32,5 @@
 28/04/2026 -> Travail sur le projet Zoiberg, création de fichier détaillé sur les notions de ml / mathematique  
 
 29/04/2026 -> developpement de la partie cnn et pousser le document technique en rajoutant la partie cnn + révision des notions de ml  
+
+30/04/2026 -> developpement d'un cnn from scratch sans utiliser de librairie comme sk learn pour comprendre le fonctionnement, je peut presque l'utiliser sur le projet meme si les résultats seront pas aussi bien qu'avec une lib et modele deja crée
