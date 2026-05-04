@@ -34,3 +34,5 @@
 29/04/2026 -> developpement de la partie cnn et pousser le document technique en rajoutant la partie cnn + révision des notions de ml  
 
 30/04/2026 -> developpement d'un cnn from scratch sans utiliser de librairie comme sk learn pour comprendre le fonctionnement, je peut presque l'utiliser sur le projet meme si les résultats seront pas aussi bien qu'avec une lib et modele deja crée
+
+04/05/2026 -> creation d'un visuel explicatif du cnn (avec socket.io pour du rendu en temps rééls) pour le follow up de jeudi
