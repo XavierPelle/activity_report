@@ -36,3 +36,5 @@
 30/04/2026 -> developpement d'un cnn from scratch sans utiliser de librairie comme sk learn pour comprendre le fonctionnement, je peut presque l'utiliser sur le projet meme si les résultats seront pas aussi bien qu'avec une lib et modele deja crée
 
 04/05/2026 -> creation d'un visuel explicatif du cnn (avec socket.io pour du rendu en temps rééls) pour le follow up de jeudi
+
+01/06/2026 -> Amélioration du cnn en vue du dernier point du projet zoidberg sur la différenciation d'une radio pneumonie virale ou bactérienne 
