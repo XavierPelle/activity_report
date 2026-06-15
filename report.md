@@ -40,3 +40,5 @@
 01/06/2026 -> Amélioration du cnn en vue du dernier point du projet zoidberg sur la différenciation d'une radio pneumonie virale ou bactérienne 
 
 08/06/2026 -> Travail sur le model nlp du projet d'esp augmentation du dataset a 250 et entrainements du model très long sur 6 epoch dont la premiere a raté (2h environ par entrainement)
+
+15/06/2026 -> travil sur le projet zoidberg avancement et finalisation du model pour détecter une radio pneumonie virale ou bactérienne 
